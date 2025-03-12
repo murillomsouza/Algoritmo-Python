@@ -1,0 +1,12 @@
+Lista de Exercicio
+1 - Receba dois números do usuário e mostre qual deles é o maior.
+2 - Solicite a idade do usuário e informe se ele é menor de idade, maior de idade ou idoso (considerando 18 e 65 anos como limites).
+3 - Peça ao usuário para inserir a idade de uma pessoa e classifique-a como "Criança" (0-12 anos), "Adolescente" (13-17 anos), "Adulto" (18-64 anos) ou "Idoso" (65+ anos).
+4 - Crie uma calculadora simples que permita ao usuário escolher uma operação (adição, subtração, multiplicação ou divisão) e dois números, e então exiba o resultado.
+5 - Peça um número ao usuário e informe se ele é par ou ímpar.
+6 - Crie um programa que simule um sistema de login. Solicite um nome de usuário e senha e verifique se as credenciais estão corretas.
+7 - Receba a nota de um aluno e classifique-a como A (90-100), B (80-89), C (70-79), D (60-69), ou F (menos de 60).
+8 - Peça ao usuário seu peso e altura, calcule o Índice de Massa Corporal (IMC) e classifique-o como "Abaixo do peso", "Peso normal", "Sobrepeso" ou "Obesidade".
+9 - Solicite o preço de um produto e aplique um desconto de 10% se o preço for maior que R$ 100. Exiba o valor final.
+10 - Desenvolva um programa que permita ao usuário escolher uma operação (saque, depósito) e simule o comportamento de um caixa eletrônico com validações básicas (ex.: saldo insuficiente para saque).
+11 - Faça um programa que leia a idade e a categoria de um jogador de futebol (juvenil, adulto, veterano) e calcule a sua classificação no time.
