@@ -1,0 +1,37 @@
+1. Salario
+Crie um programa que leia o nome e o salário de um funcionário, mostrando no final uma mensagem.
+2. Media
+Faça um programa que leia as duas notas de um aluno em uma matéria e mostre na tela a sua média na disciplina.
+3. Operadores
+Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a sua terça parte.
+4. Cálculo de área de um quadrado
+A = b.h
+5. Peça o lado de um quadrado e mostre sua área.
+Área = lado²
+6. Cálculo de área de um triângulo
+Área = (base × altura) / 2
+7. Cálculo de área de um círculo:
+Área = π × raio²
+8. Construção
+Faça um algoritmo que leia a largura e altura de uma parede, calcule e mostre a área a ser pintada e a quantidade de tinta necessária para o serviço, sabendo que cada litro de tinta pinta uma área de 2metros quadrados.
+9. IMC (Índice de Massa Corporal)
+IMC = peso / (altura ** 2)
+10. Múltiplos
+Elaborar um algoritmo que lê 2 valores a e b e os escreve com a mensagem: "São múltiplos" ou "Não são múltiplos".
+11. Desconto em compras
+Peça o valor de um produto e aplique um desconto de 10%.
+12. Aumento salarial
+Peça o salário de um funcionário e aumente em 15%.
+13. Cálculo do tempo de viagem
+Peça a distância a ser percorrida e a velocidade média, depois calcule o tempo da viagem
+Tempo = distância / velocidade
+14. Conta de luz
+Peça a quantidade de kWh consumidos e o valor por kWh, depois calcule o valor da conta de energia.
+15. Conversão de dinheiro
+Peça um valor em reais e converta para dólares. (Considere o valor do dólar como R$ 5,00)
+16. Salário
+Crie um programa que leia o número de dias trabalhados em um mês e mostre o salário de um funcionário, sabendo que ele trabalha 8 horas por dia e ganha R$25,00 por hora trabalhada.
+17. Locadora
+A locadora de carros precisa da sua ajuda para cobrar seus serviços. Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço total a pagar, sabendo que o carro custa R$ 90,00 por dia e R$ 0,20 por Km rodado.
+18. Custo de impost
+O custo ao consumidor de um carro novo é a soma do custo de fábrica com a percentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que a percentagem do distribuidor seja de 28% e os impostos de 45%, escrever um algoritmo que leia o custo de fábrica de um carro e escreva o custo ao consumidor.
