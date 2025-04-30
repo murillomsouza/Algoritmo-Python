@@ -1,14 +1,10 @@
 #Exercicio 20
-num = int(input("Digite um número: "))
-if num < 2:
-    print(f"{num} não é um número primo.")
+cont = 0
+num = int(input('Digite o número a ser verificado se é primo: '))
+for i in range(1, num+1, 1):
+    if num % i == 0:
+        cont += 1
+if cont <= 2:
+    print('É primo!')
 else:
-    primo = True
-    for i in range(2, int(num ** 0.5) + 1):
-        if num % i == 0:
-            primo = False
-            break
-    if primo:
-        print(f"{num} é um número primo.")
-    else:
-        print(f"{num} não é um número primo.")
+    print('Não é primo!')
