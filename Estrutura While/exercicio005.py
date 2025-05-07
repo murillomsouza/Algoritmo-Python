@@ -1,12 +1,11 @@
 #Exercicio 5
-dep = 0
-saldo = 0
-decisao = {}
-while decisao != 4:
-    decisao = int(input('=====BANCO===== \n Qual operação deseja realizar? \n Digite um número para selecionar a opção. \n 1 - Visualizar saldo \n 2 - Depositar \n 3 - Sacar \n 4 - Sair \n'))
-    if decisao == 1:
-        print(f'Seu saldo é de R${saldo}')
-    elif decisao == 2:
-        dep = float(input('Digite o valor a ser depositado: '))
-        print('Depositado com sucesso!')
-    saldo += dep
+saldo = 1000
+saque = 0
+while saldo > 0:
+    saque = int(input('Digite um valor a ser sacado: '))
+    if saque > saldo:
+        print('Operação inválida, você não tem saldo suficiente.')
+        break
+    else:
+        saldo -= saque
+        print(f'Agora seu saldo é de R${saldo},00.')
